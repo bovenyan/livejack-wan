@@ -1,0 +1,6 @@
+0,s,New York,New York,0 
+1,v,New York,New York,0
+1,v,Chicago,New York,0
+1,s,Chicago,Chicago,1
+2,v,Los Angeles,New York,0
+2,v,Los Angeles,Chicago,1
